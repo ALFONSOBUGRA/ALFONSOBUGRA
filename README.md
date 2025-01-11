@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ALFONSOBUGRA
 - 👀 I’m interested in Artificial Intelligent on the Aerospace Systems
-- 🌱 I’m currently learning Multi-Modal Large Language Models
+- 🌱 I’m currently learning Multi-Modal Large Language Models and Masked AutoEncoders
 - 📫 You can reach me at hamitbugrabayram@gmail.com
 - 😄 Pronouns: they/them XD (I'm taking the Gender Studies Course, so I have to respect them. I advice you toooooooooooooo)
 - ⚡ Fun fact: Still Student
